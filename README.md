@@ -10,9 +10,6 @@ O GeraDoc é um sistema de Gerenciamento de Conteúdo Corporativo (ECM - Enterpr
 Ele foi desenvolvido para facilitar a criação de documentos oficiais padronizados, como ofícios, comunicações internas, despachos, pareceres técnicos, pareceres jurídicos, atos administrativos e notas de instrução nos diversos setores de instituições governamentais, mantendo as formas, controlando numerações, preservando as informações, controlando acessos e permissões, bem como possibilitando pesquisas textuais nos conteúdos dos documentos produzidos.
 
 
-<a href="https://pag.ae/bgn6BDX" target="_blank"><img src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-azul-assina.gif"></a>
-
-
 Benefícios:
 ===================================
 
@@ -47,6 +44,12 @@ Este sistema é um software livre baseado em outros softwares livres; você pode
 Este sistema é distribuído na esperança de que possa ser  útil, mas SEM NENHUMA GARANTIA; sem uma garantia implícita de ADEQUAÇÃO a qualquer MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a Licença Pública Geral GNU para maiores detalhes.
 
 Em caso de dúvidas, erros ou sugestões, por favor, envie e-mail para tarsodecastro@gmail.com
+
+
+Ajude a manter:
+===================================
+
+<a href="https://pag.ae/bgn6BDX" target="_blank"><img src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-azul-assina.gif"></a>
 
 
 Requisitos:
