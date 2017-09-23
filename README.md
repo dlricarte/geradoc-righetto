@@ -49,7 +49,7 @@ Em caso de dúvidas, erros ou sugestões, por favor, envie e-mail para tarsodeca
 Ajude a manter:
 ===================================
 
-<a href="https://pag.ae/bgn6BDX" target="_blank"><img src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-azul-assina.gif"></a>
+<a href="https://pag.ae/bgn6BDX" target="_blank"><img src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/205x30-doar-azul.gif"></a>
 
 
 Requisitos:
